@@ -1,0 +1,1 @@
+JavaApp (PC) that works with ADT commands and resolve Jewels AndroidApp via Bridge.
